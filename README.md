@@ -1,8 +1,9 @@
 # Git / GitHub
 
+## General Info
 Repository for Holberton School project on Git / GitHub
 
-Learning
+## Learning Objectives
 - What is source code management
 - What is Git
 - What is GitHub
